@@ -15,7 +15,7 @@ DO NOT SHARE THE headers_auth.json FILE CREATED BY THIS PROGRAM
 
 ##  How-To
 
-If you just want to run the app without installing Python, download `music_importer_gui.exe`.
+If you just want to run the app without installing Python, download `musicImporterGUI2.exe`.
 
 ### Step 1: Get your YouTube Music Headers
 To allow the app to create a playlist on your behalf, you need to provide it with a temporary digital ID badge (Headers). 
@@ -28,7 +28,7 @@ To allow the app to create a playlist on your behalf, you need to provide it wit
 
 
 ### Step 2: Setup Authentication
-1. Launch `music_importer_gui.exe`.
+1. Launch `musicImporterGUI2.exe`.
 2. Click the blue **⚙️ Setup Authentication** button.
 3. Paste your `Cookie` and `Authorization` data into the provided boxes and click Generate.
 
