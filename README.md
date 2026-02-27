@@ -47,5 +47,7 @@ customtkinter
 ## ⚠️ Disclaimer
 This is an unofficial tool. It relies on the `ytmusicapi` library. Please be mindful of YouTube's rate limits. Do not use this tool to spam requests to YouTube's servers. 
 
+The creation of this tool was aided by Google Gemini.
+
 ## 📜 License
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
