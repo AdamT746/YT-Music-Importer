@@ -54,5 +54,7 @@ This is an unofficial tool. It relies on the `ytmusicapi` library. Please be min
 
 The creation of this tool was aided by Google Gemini.
 
+https://ko-fi.com/adamt746
+
 ## License
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
