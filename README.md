@@ -4,6 +4,8 @@ A desktop application that scans your local music library and recreates it as a 
 
 DO NOT SHARE THE headers_auth.json FILE CREATED BY THIS PROGRAM
 
+Sometimes VPNs can cause the Youtube headers to clash, I recommend pausing your VPN while running the Importer to ensure it runs smoothly.
+
 ## Features
 
 * Has a UI instead of most console based applications.
