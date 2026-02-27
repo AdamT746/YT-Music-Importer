@@ -2,6 +2,8 @@
 
 A desktop application that scans your local music library and recreates it as a playlist on YouTube Music. Built with Python and CustomTkinter.
 
+DO NOT SHARE THE headers_auth.json FILE CREATED BY THIS PROGRAM
+
 ## Features
 
 * Has a UI instead of most console based applications.
