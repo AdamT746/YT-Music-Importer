@@ -39,12 +39,15 @@ To allow the app to create a playlist on your behalf, you need to provide it wit
 4. Click **START IMPORT** and watch the live console do the heavy lifting!
 
 
-If you prefer to run the raw Python script:
+## Building the App
 
 Dependencies:
-ytmusicapi
-tinytag
-customtkinter
+* ytmusicapi
+* tinytag
+* customtkinter
+
+python -m PyInstaller --noconsole --onefile --icon=Logo.ico --collect-all ytmusicapi --collect-all customtkinter musicImporterGUI2.py  
+
 
 ## Disclaimer
 This is an unofficial tool. It relies on the `ytmusicapi` library. Please be mindful of YouTube's rate limits. Do not use this tool to spam requests to YouTube's servers. 
